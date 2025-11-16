@@ -1,0 +1,511 @@
+=============== HANABI GAME 130 TRACE ===============
+
+Step 1: Player 1 — Reveal Red to Player +2
+   -> Hint action (no change to hands)
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 2', 'Red 5']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'Red 1', 'White 3', 'Green 1']
+      Player 3 hand: ['Red 3', 'Blue 2', 'Yellow 1', 'Blue 3', 'White 5']
+      Discard pile: []
+      Played pile:  Red _, Yellow _, Green _, White _, Blue _
+
+Step 2: Player 2 — Play card 3
+   -> Played Red 1
+   -> Drew Yellow 3
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 2', 'Red 5']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Green 1', 'Yellow 3']
+      Player 3 hand: ['Red 3', 'Blue 2', 'Yellow 1', 'Blue 3', 'White 5']
+      Discard pile: []
+      Played pile:  Red 1, Yellow _, Green _, White _, Blue _
+
+Step 3: Player 3 — Reveal Blue to Player +2
+   -> Hint action (no change to hands)
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 2', 'Red 5']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Green 1', 'Yellow 3']
+      Player 3 hand: ['Red 3', 'Blue 2', 'Yellow 1', 'Blue 3', 'White 5']
+      Discard pile: []
+      Played pile:  Red 1, Yellow _, Green _, White _, Blue _
+
+Step 4: Player 1 — Reveal Rank 2 to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 2', 'Red 5']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Green 1', 'Yellow 3']
+      Player 3 hand: ['Red 3', 'Blue 2', 'Yellow 1', 'Blue 3', 'White 5']
+      Discard pile: []
+      Played pile:  Red 1, Yellow _, Green _, White _, Blue _
+
+Step 5: Player 2 — Play card 4
+   -> Played Green 1
+   -> Drew Blue 1
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 2', 'Red 5']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'Blue 1']
+      Player 3 hand: ['Red 3', 'Blue 2', 'Yellow 1', 'Blue 3', 'White 5']
+      Discard pile: []
+      Played pile:  Red 1, Yellow _, Green 1, White _, Blue _
+
+Step 6: Player 3 — Reveal Red to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 2', 'Red 5']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'Blue 1']
+      Player 3 hand: ['Red 3', 'Blue 2', 'Yellow 1', 'Blue 3', 'White 5']
+      Discard pile: []
+      Played pile:  Red 1, Yellow _, Green 1, White _, Blue _
+
+Step 7: Player 1 — Reveal Rank 2 to Player +2
+   -> Hint action (no change to hands)
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 2', 'Red 5']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'Blue 1']
+      Player 3 hand: ['Red 3', 'Blue 2', 'Yellow 1', 'Blue 3', 'White 5']
+      Discard pile: []
+      Played pile:  Red 1, Yellow _, Green 1, White _, Blue _
+
+Step 8: Player 2 — Reveal Red to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 2', 'Red 5']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'Blue 1']
+      Player 3 hand: ['Red 3', 'Blue 2', 'Yellow 1', 'Blue 3', 'White 5']
+      Discard pile: []
+      Played pile:  Red 1, Yellow _, Green 1, White _, Blue _
+
+Step 9: Player 3 — Play card 3
+   -> Played Yellow 1
+   -> Drew Green 3
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 2', 'Red 5']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'Blue 1']
+      Player 3 hand: ['Red 3', 'Blue 2', 'Blue 3', 'White 5', 'Green 3']
+      Discard pile: []
+      Played pile:  Red 1, Yellow 1, Green 1, White _, Blue _
+
+Step 10: Player 1 — Reveal Yellow to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 2', 'Red 5']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'Blue 1']
+      Player 3 hand: ['Red 3', 'Blue 2', 'Blue 3', 'White 5', 'Green 3']
+      Discard pile: []
+      Played pile:  Red 1, Yellow 1, Green 1, White _, Blue _
+
+Step 11: Player 2 — Play card 5
+   -> Played Blue 1
+   -> Drew White 4
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 2', 'Red 5']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'White 4']
+      Player 3 hand: ['Red 3', 'Blue 2', 'Blue 3', 'White 5', 'Green 3']
+      Discard pile: []
+      Played pile:  Red 1, Yellow 1, Green 1, White _, Blue 1
+
+Step 12: Player 3 — Play card 2
+   -> Played Blue 2
+   -> Drew Red 2
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 2', 'Red 5']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'White 4']
+      Player 3 hand: ['Red 3', 'Blue 3', 'White 5', 'Green 3', 'Red 2']
+      Discard pile: []
+      Played pile:  Red 1, Yellow 1, Green 1, White _, Blue 2
+
+Step 13: Player 1 — Play card 4
+   -> Played Red 2
+   -> Drew Green 1
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 5', 'Green 1']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'White 4']
+      Player 3 hand: ['Red 3', 'Blue 3', 'White 5', 'Green 3', 'Red 2']
+      Discard pile: []
+      Played pile:  Red 2, Yellow 1, Green 1, White _, Blue 2
+
+Step 14: Player 2 — Reveal Blue to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 5', 'Green 1']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'White 4']
+      Player 3 hand: ['Red 3', 'Blue 3', 'White 5', 'Green 3', 'Red 2']
+      Discard pile: []
+      Played pile:  Red 2, Yellow 1, Green 1, White _, Blue 2
+
+Step 15: Player 3 — Play card 2
+   -> Played Blue 3
+   -> Drew Yellow 1
+      Player 1 hand: ['White 2', 'Green 5', 'Blue 5', 'Red 5', 'Green 1']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'White 4']
+      Player 3 hand: ['Red 3', 'White 5', 'Green 3', 'Red 2', 'Yellow 1']
+      Discard pile: []
+      Played pile:  Red 2, Yellow 1, Green 1, White _, Blue 3
+
+Step 16: Player 1 — Discard card 1
+   -> Discarded White 2
+   -> Drew Red 3
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Green 1', 'Red 3']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'White 4']
+      Player 3 hand: ['Red 3', 'White 5', 'Green 3', 'Red 2', 'Yellow 1']
+      Discard pile: ['White 2']
+      Played pile:  Red 2, Yellow 1, Green 1, White _, Blue 3
+
+Step 17: Player 2 — Reveal Blue to Player +2
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Green 1', 'Red 3']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'White 4']
+      Player 3 hand: ['Red 3', 'White 5', 'Green 3', 'Red 2', 'Yellow 1']
+      Discard pile: ['White 2']
+      Played pile:  Red 2, Yellow 1, Green 1, White _, Blue 3
+
+Step 18: Player 3 — Discard card 3
+   -> Discarded Green 3
+   -> Drew White 1
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Green 1', 'Red 3']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'White 4']
+      Player 3 hand: ['Red 3', 'White 5', 'Red 2', 'Yellow 1', 'White 1']
+      Discard pile: ['White 2', 'Green 3']
+      Played pile:  Red 2, Yellow 1, Green 1, White _, Blue 3
+
+Step 19: Player 1 — Reveal Green to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Green 1', 'Red 3']
+      Player 2 hand: ['Yellow 2', 'Green 2', 'White 3', 'Yellow 3', 'White 4']
+      Player 3 hand: ['Red 3', 'White 5', 'Red 2', 'Yellow 1', 'White 1']
+      Discard pile: ['White 2', 'Green 3']
+      Played pile:  Red 2, Yellow 1, Green 1, White _, Blue 3
+
+Step 20: Player 2 — Play card 1
+   -> Played Yellow 2
+   -> Drew Yellow 1
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Green 1', 'Red 3']
+      Player 2 hand: ['Green 2', 'White 3', 'Yellow 3', 'White 4', 'Yellow 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Red 2', 'Yellow 1', 'White 1']
+      Discard pile: ['White 2', 'Green 3']
+      Played pile:  Red 2, Yellow 2, Green 1, White _, Blue 3
+
+Step 21: Player 3 — Discard card 3
+   -> Discarded Red 2
+   -> Drew Yellow 2
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Green 1', 'Red 3']
+      Player 2 hand: ['Green 2', 'White 3', 'Yellow 3', 'White 4', 'Yellow 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 1', 'White 1', 'Yellow 2']
+      Discard pile: ['White 2', 'Green 3', 'Red 2']
+      Played pile:  Red 2, Yellow 2, Green 1, White _, Blue 3
+
+Step 22: Player 1 — Discard card 4
+   -> Discarded Green 1
+   -> Drew Red 1
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Red 3', 'Red 1']
+      Player 2 hand: ['Green 2', 'White 3', 'Yellow 3', 'White 4', 'Yellow 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 1', 'White 1', 'Yellow 2']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1']
+      Played pile:  Red 2, Yellow 2, Green 1, White _, Blue 3
+
+Step 23: Player 2 — Discard card 2
+   -> Discarded White 3
+   -> Drew Green 1
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Red 3', 'Red 1']
+      Player 2 hand: ['Green 2', 'Yellow 3', 'White 4', 'Yellow 1', 'Green 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 1', 'White 1', 'Yellow 2']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3']
+      Played pile:  Red 2, Yellow 2, Green 1, White _, Blue 3
+
+Step 24: Player 3 — Reveal Green to Player +2
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Red 3', 'Red 1']
+      Player 2 hand: ['Green 2', 'Yellow 3', 'White 4', 'Yellow 1', 'Green 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 1', 'White 1', 'Yellow 2']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3']
+      Played pile:  Red 2, Yellow 2, Green 1, White _, Blue 3
+
+Step 25: Player 1 — Reveal Rank 4 to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Red 3', 'Red 1']
+      Player 2 hand: ['Green 2', 'Yellow 3', 'White 4', 'Yellow 1', 'Green 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 1', 'White 1', 'Yellow 2']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3']
+      Played pile:  Red 2, Yellow 2, Green 1, White _, Blue 3
+
+Step 26: Player 2 — Discard card 3
+   -> Discarded White 4
+   -> Drew Blue 1
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Red 3', 'Red 1']
+      Player 2 hand: ['Green 2', 'Yellow 3', 'Yellow 1', 'Green 1', 'Blue 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 1', 'White 1', 'Yellow 2']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4']
+      Played pile:  Red 2, Yellow 2, Green 1, White _, Blue 3
+
+Step 27: Player 3 — Play card 4
+   -> Played White 1
+   -> Drew White 4
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Red 3', 'Red 1']
+      Player 2 hand: ['Green 2', 'Yellow 3', 'Yellow 1', 'Green 1', 'Blue 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 1', 'Yellow 2', 'White 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4']
+      Played pile:  Red 2, Yellow 2, Green 1, White 1, Blue 3
+
+Step 28: Player 1 — Reveal Yellow to Player +2
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Red 3', 'Red 1']
+      Player 2 hand: ['Green 2', 'Yellow 3', 'Yellow 1', 'Green 1', 'Blue 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 1', 'Yellow 2', 'White 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4']
+      Played pile:  Red 2, Yellow 2, Green 1, White 1, Blue 3
+
+Step 29: Player 2 — Play card 1
+   -> Played Green 2
+   -> Drew White 1
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Red 3', 'Red 1']
+      Player 2 hand: ['Yellow 3', 'Yellow 1', 'Green 1', 'Blue 1', 'White 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 1', 'Yellow 2', 'White 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4']
+      Played pile:  Red 2, Yellow 2, Green 2, White 1, Blue 3
+
+Step 30: Player 3 — Discard card 3
+   -> Discarded Yellow 1
+   -> Drew Green 3
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Red 3', 'Red 1']
+      Player 2 hand: ['Yellow 3', 'Yellow 1', 'Green 1', 'Blue 1', 'White 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 2', 'White 4', 'Green 3']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1']
+      Played pile:  Red 2, Yellow 2, Green 2, White 1, Blue 3
+
+Step 31: Player 1 — Discard card 5
+   -> Discarded Red 1
+   -> Drew Blue 4
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Red 3', 'Blue 4']
+      Player 2 hand: ['Yellow 3', 'Yellow 1', 'Green 1', 'Blue 1', 'White 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 2', 'White 4', 'Green 3']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1']
+      Played pile:  Red 2, Yellow 2, Green 2, White 1, Blue 3
+
+Step 32: Player 2 — Reveal Green to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Red 3', 'Blue 4']
+      Player 2 hand: ['Yellow 3', 'Yellow 1', 'Green 1', 'Blue 1', 'White 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 2', 'White 4', 'Green 3']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1']
+      Played pile:  Red 2, Yellow 2, Green 2, White 1, Blue 3
+
+Step 33: Player 3 — Play card 5
+   -> Played Green 3
+   -> Drew Red 4
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Red 3', 'Blue 4']
+      Player 2 hand: ['Yellow 3', 'Yellow 1', 'Green 1', 'Blue 1', 'White 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 2', 'White 4', 'Red 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1']
+      Played pile:  Red 2, Yellow 2, Green 3, White 1, Blue 3
+
+Step 34: Player 1 — Play card 4
+   -> Played Red 3
+   -> Drew Blue 3
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Yellow 1', 'Green 1', 'Blue 1', 'White 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 2', 'White 4', 'Red 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1']
+      Played pile:  Red 3, Yellow 2, Green 3, White 1, Blue 3
+
+Step 35: Player 2 — Reveal Rank 4 to Player +2
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Yellow 1', 'Green 1', 'Blue 1', 'White 1']
+      Player 3 hand: ['Red 3', 'White 5', 'Yellow 2', 'White 4', 'Red 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1']
+      Played pile:  Red 3, Yellow 2, Green 3, White 1, Blue 3
+
+Step 36: Player 3 — Discard card 3
+   -> Discarded Yellow 2
+   -> Drew White 1
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Yellow 1', 'Green 1', 'Blue 1', 'White 1']
+      Player 3 hand: ['Red 3', 'White 5', 'White 4', 'Red 4', 'White 1']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2']
+      Played pile:  Red 3, Yellow 2, Green 3, White 1, Blue 3
+
+Step 37: Player 1 — Reveal Rank 1 to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Yellow 1', 'Green 1', 'Blue 1', 'White 1']
+      Player 3 hand: ['Red 3', 'White 5', 'White 4', 'Red 4', 'White 1']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2']
+      Played pile:  Red 3, Yellow 2, Green 3, White 1, Blue 3
+
+Step 38: Player 2 — Discard card 2
+   -> Discarded Yellow 1
+   -> Drew Blue 4
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Green 1', 'Blue 1', 'White 1', 'Blue 4']
+      Player 3 hand: ['Red 3', 'White 5', 'White 4', 'Red 4', 'White 1']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1']
+      Played pile:  Red 3, Yellow 2, Green 3, White 1, Blue 3
+
+Step 39: Player 3 — Play card 4
+   -> Played Red 4
+   -> Drew Blue 1
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Green 1', 'Blue 1', 'White 1', 'Blue 4']
+      Player 3 hand: ['Red 3', 'White 5', 'White 4', 'White 1', 'Blue 1']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1']
+      Played pile:  Red 4, Yellow 2, Green 3, White 1, Blue 3
+
+Step 40: Player 1 — Reveal Rank 4 to Player +2
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Green 1', 'Blue 1', 'White 1', 'Blue 4']
+      Player 3 hand: ['Red 3', 'White 5', 'White 4', 'White 1', 'Blue 1']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1']
+      Played pile:  Red 4, Yellow 2, Green 3, White 1, Blue 3
+
+Step 41: Player 2 — Discard card 2
+   -> Discarded Green 1
+   -> Drew White 3
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'White 1', 'Blue 4', 'White 3']
+      Player 3 hand: ['Red 3', 'White 5', 'White 4', 'White 1', 'Blue 1']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1']
+      Played pile:  Red 4, Yellow 2, Green 3, White 1, Blue 3
+
+Step 42: Player 3 — Discard card 4
+   -> Discarded White 1
+   -> Drew Red 1
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'White 1', 'Blue 4', 'White 3']
+      Player 3 hand: ['Red 3', 'White 5', 'White 4', 'Blue 1', 'Red 1']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1']
+      Played pile:  Red 4, Yellow 2, Green 3, White 1, Blue 3
+
+Step 43: Player 1 — Reveal White to Player +2
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'White 1', 'Blue 4', 'White 3']
+      Player 3 hand: ['Red 3', 'White 5', 'White 4', 'Blue 1', 'Red 1']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1']
+      Played pile:  Red 4, Yellow 2, Green 3, White 1, Blue 3
+
+Step 44: Player 2 — Play card 4
+   -> Played Blue 4
+   -> Drew White 2
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'White 1', 'White 3', 'White 2']
+      Player 3 hand: ['Red 3', 'White 5', 'White 4', 'Blue 1', 'Red 1']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1']
+      Played pile:  Red 4, Yellow 2, Green 3, White 1, Blue 4
+
+Step 45: Player 3 — Reveal Rank 4 to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'White 1', 'White 3', 'White 2']
+      Player 3 hand: ['Red 3', 'White 5', 'White 4', 'Blue 1', 'Red 1']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1']
+      Played pile:  Red 4, Yellow 2, Green 3, White 1, Blue 4
+
+Step 46: Player 1 — Reveal Rank 4 to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'White 1', 'White 3', 'White 2']
+      Player 3 hand: ['Red 3', 'White 5', 'White 4', 'Blue 1', 'Red 1']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1']
+      Played pile:  Red 4, Yellow 2, Green 3, White 1, Blue 4
+
+Step 47: Player 2 — Play card 5
+   -> Played White 2
+   -> Drew Green 2
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'White 1', 'White 3', 'Green 2']
+      Player 3 hand: ['Red 3', 'White 5', 'White 4', 'Blue 1', 'Red 1']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1']
+      Played pile:  Red 4, Yellow 2, Green 3, White 2, Blue 4
+
+Step 48: Player 3 — Discard card 1
+   -> Discarded Red 3
+   -> Drew Green 4
+      Player 1 hand: ['Green 5', 'Blue 5', 'Red 5', 'Blue 4', 'Blue 3']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'White 1', 'White 3', 'Green 2']
+      Player 3 hand: ['White 5', 'White 4', 'Blue 1', 'Red 1', 'Green 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1', 'Red 3']
+      Played pile:  Red 4, Yellow 2, Green 3, White 2, Blue 4
+
+Step 49: Player 1 — Play card 3
+   -> Played Red 5
+   -> Drew Blue 2
+      Player 1 hand: ['Green 5', 'Blue 5', 'Blue 4', 'Blue 3', 'Blue 2']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'White 1', 'White 3', 'Green 2']
+      Player 3 hand: ['White 5', 'White 4', 'Blue 1', 'Red 1', 'Green 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1', 'Red 3']
+      Played pile:  Red 5, Yellow 2, Green 3, White 2, Blue 4
+
+Step 50: Player 2 — Play card 4
+   -> Played White 3
+   -> Drew Yellow 5
+      Player 1 hand: ['Green 5', 'Blue 5', 'Blue 4', 'Blue 3', 'Blue 2']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'White 1', 'Green 2', 'Yellow 5']
+      Player 3 hand: ['White 5', 'White 4', 'Blue 1', 'Red 1', 'Green 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1', 'Red 3']
+      Played pile:  Red 5, Yellow 2, Green 3, White 3, Blue 4
+
+Step 51: Player 3 — Play card 2
+   -> Played White 4
+   -> Drew Red 4
+      Player 1 hand: ['Green 5', 'Blue 5', 'Blue 4', 'Blue 3', 'Blue 2']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'White 1', 'Green 2', 'Yellow 5']
+      Player 3 hand: ['White 5', 'Blue 1', 'Red 1', 'Green 4', 'Red 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1', 'Red 3']
+      Played pile:  Red 5, Yellow 2, Green 3, White 4, Blue 4
+
+Step 52: Player 1 — Discard card 4
+   -> Discarded Blue 3
+   -> Drew Yellow 4
+      Player 1 hand: ['Green 5', 'Blue 5', 'Blue 4', 'Blue 2', 'Yellow 4']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'White 1', 'Green 2', 'Yellow 5']
+      Player 3 hand: ['White 5', 'Blue 1', 'Red 1', 'Green 4', 'Red 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1', 'Red 3', 'Blue 3']
+      Played pile:  Red 5, Yellow 2, Green 3, White 4, Blue 4
+
+Step 53: Player 2 — Discard card 3
+   -> Discarded White 1
+   -> Drew Green 4
+      Player 1 hand: ['Green 5', 'Blue 5', 'Blue 4', 'Blue 2', 'Yellow 4']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'Green 2', 'Yellow 5', 'Green 4']
+      Player 3 hand: ['White 5', 'Blue 1', 'Red 1', 'Green 4', 'Red 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1', 'Red 3', 'Blue 3', 'White 1']
+      Played pile:  Red 5, Yellow 2, Green 3, White 4, Blue 4
+
+Step 54: Player 3 — Reveal Rank 3 to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Blue 4', 'Blue 2', 'Yellow 4']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'Green 2', 'Yellow 5', 'Green 4']
+      Player 3 hand: ['White 5', 'Blue 1', 'Red 1', 'Green 4', 'Red 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1', 'Red 3', 'Blue 3', 'White 1']
+      Played pile:  Red 5, Yellow 2, Green 3, White 4, Blue 4
+
+Step 55: Player 1 — Discard card 4
+   -> Discarded Blue 2
+   -> Drew Yellow 4
+      Player 1 hand: ['Green 5', 'Blue 5', 'Blue 4', 'Yellow 4', 'Yellow 4']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'Green 2', 'Yellow 5', 'Green 4']
+      Player 3 hand: ['White 5', 'Blue 1', 'Red 1', 'Green 4', 'Red 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1', 'Red 3', 'Blue 3', 'White 1', 'Blue 2']
+      Played pile:  Red 5, Yellow 2, Green 3, White 4, Blue 4
+
+Step 56: Player 2 — Play card 5
+   -> Played Green 4
+   -> Drew Yellow 3
+      Player 1 hand: ['Green 5', 'Blue 5', 'Blue 4', 'Yellow 4', 'Yellow 4']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'Green 2', 'Yellow 5', 'Yellow 3']
+      Player 3 hand: ['White 5', 'Blue 1', 'Red 1', 'Green 4', 'Red 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1', 'Red 3', 'Blue 3', 'White 1', 'Blue 2']
+      Played pile:  Red 5, Yellow 2, Green 4, White 4, Blue 4
+
+Step 57: Player 3 — Reveal Blue to Player +1
+   -> Hint action (no change to hands)
+      Player 1 hand: ['Green 5', 'Blue 5', 'Blue 4', 'Yellow 4', 'Yellow 4']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'Green 2', 'Yellow 5', 'Yellow 3']
+      Player 3 hand: ['White 5', 'Blue 1', 'Red 1', 'Green 4', 'Red 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1', 'Red 3', 'Blue 3', 'White 1', 'Blue 2']
+      Played pile:  Red 5, Yellow 2, Green 4, White 4, Blue 4
+
+Step 58: Player 1 — Play card 3
+   -> Played Blue 4
+      Player 1 hand: ['Green 5', 'Blue 5', 'Yellow 4', 'Yellow 4']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'Green 2', 'Yellow 5', 'Yellow 3']
+      Player 3 hand: ['White 5', 'Blue 1', 'Red 1', 'Green 4', 'Red 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1', 'Red 3', 'Blue 3', 'White 1', 'Blue 2']
+      Played pile:  Red 5, Yellow 2, Green 4, White 4, Blue 4
+
+Step 59: Player 2 — Play card 5
+   -> Played Yellow 3
+      Player 1 hand: ['Green 5', 'Blue 5', 'Yellow 4', 'Yellow 4']
+      Player 2 hand: ['Yellow 3', 'Blue 1', 'Green 2', 'Yellow 5']
+      Player 3 hand: ['White 5', 'Blue 1', 'Red 1', 'Green 4', 'Red 4']
+      Discard pile: ['White 2', 'Green 3', 'Red 2', 'Green 1', 'White 3', 'White 4', 'Yellow 1', 'Red 1', 'Yellow 2', 'Yellow 1', 'Green 1', 'White 1', 'Red 3', 'Blue 3', 'White 1', 'Blue 2']
+      Played pile:  Red 5, Yellow 3, Green 4, White 4, Blue 4
+
+Final Score: 20
+=============== END OF GAME TRACE ===============
